@@ -1,0 +1,1 @@
+d3.json('/entrances').then(function(d){console.log(d)})
